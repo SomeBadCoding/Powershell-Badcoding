@@ -1,2 +1,2 @@
-# Powershell-Badcoding
-Powershell Scripts
+# SomeBadcoding - Scipts
+Powershell / Command Prompt / Bash Scripts
